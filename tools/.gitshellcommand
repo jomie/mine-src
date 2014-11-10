@@ -1,3 +1,6 @@
+git config --global user.name "jomie"
+git config --global user.email qinguomin27@gmail.com
+
 git branch 查看本地所有分支
 git status 查看当前状态 
 git commit 提交 
